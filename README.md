@@ -1,2 +1,2 @@
 # AutoGG
-This mod provides an auto-chat functionality on the popular minecraft server [Hypixel](https://hypixel.net/). It exists primarily as a 1.16.5 port of [Sk1erLLC/AutoGG](https://github.com/Sk1erLLC/AutoGG) without the GUI interface. Instead, phases are set with the `/gg add [phrase]` `/gg remove [phrase]` and `/gg list` commands.
+This mod provides an auto-chat functionality on the popular minecraft server [Hypixel](https://hypixel.net/). It exists primarily as a 1.16.5 port of [Sk1erLLC/AutoGG](https://github.com/Sk1erLLC/AutoGG) without the GUI interface. Instead, phases are set with the `/gg add [phrase]` `/gg remove [phrase]` and `/gg list` commands. In order to work, this mod requires [CoolSpyLib](https://github.com/CoolSpy3/CoolSpyLibMC).
