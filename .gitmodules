@@ -1,0 +1,6 @@
+[submodule "CoolSpyLibMC"]
+	path = CoolSpyLibMC
+	url = https://github.com/CoolSpy3/CoolSpyLibMC
+[submodule "CoolSpyLib"]
+	path = CoolSpyLib
+	url = https://github.com/CoolSpy3/CoolSpyLibMC
